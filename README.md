@@ -1,8 +1,9 @@
 # microcontroller 
-My team and I would like to share our project with you 
+my team and I would like to share our project with you
 
-Briefly : 
-في البداية بدانا نعمل simulation من خلال برنامج Proteus ، ودا كان محتاج مننا الكود اللي هنحرقه على atmega 328p ، بدأنا نكتب ونجرب اكواد لحد ما وصلنا للكود اللي هيشغل معانا الدايره ، اشتغلنا علي ال  PCB layout جربنا كذا شكل عشان نوصل ل اقل عدد من الايرور والحمدلله وصلنا ل 2 errors . 
-بعد كده كان عندنا الجزء الأهم وهو ازاي هنحرق الكود على ال atmega كان عندنا حلين
- الاول اننا نستخدم USB ، والاخير اننا نستخدم ال Arduino ، فقررنا نستخدم بورده الاردوينو عشان نحرق بيها الكود واجهتنا مشاكل مع ال Arduino في كيفيه التعامل معاه بس الحمدلله قدرنا نفهم بسرعه ازاي نحلها  عن طريق أننا نتعلم ازاي نشتغل ع البرنامج خصوصا أنه كان اول مره نشتغل عليه .
-بدأنا نعمل تيست علي ال atmega من خلال دوائر صغيره او حتي من خلاص برنامج Arduino ide زي ما هو واضح في الفيديو , عملنا المشروع علي test board عشان نتأكد ان كل حاجه تمام قبل ما ننفذه في الاخر علي PCB.
+ Briefly:
+
+ In the beginning, we started to do simulation through the Proteus program, and we needed the code that we would burn on the atmega 328p. We started writing and testing codes until we reached the code that would run the circuit with us. We worked on the PCB layout. We tried this format in order to reach the least number of errors, thank God.  We got 2 errors .
+ After that, we had the most important part, which is how to burn the code on the atmega. We had two solutions
+  The first is that we use USB, and the last is that we use the Arduino, so we decided to use the Arduino board to burn the code with it. We had problems with the Arduino in how to deal with it, but thank God we were able to quickly understand how to solve it by learning how to work on the program, especially since it was the first time we worked on it  .
+ We started to do a test on the atmega through small circuits or even from the Arduino IDE program, as shown in the video. We did the project on a test board to make sure that everything is perfect before we jump it on the PCB.
