@@ -1,5 +1,5 @@
 # microcontroller 
-Myteam and I would like to share our project with you 
+My team and I would like to share our project with you 
 
 Briefly : 
 في البداية بدانا نعمل simulation من خلال برنامج Proteus ، ودا كان محتاج مننا الكود اللي هنحرقه على atmega 328p ، بدأنا نكتب ونجرب اكواد لحد ما وصلنا للكود اللي هيشغل معانا الدايره ، اشتغلنا علي ال  PCB layout جربنا كذا شكل عشان نوصل ل اقل عدد من الايرور والحمدلله وصلنا ل 2 errors . 
