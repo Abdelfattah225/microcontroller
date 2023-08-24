@@ -1,4 +1,4 @@
-# microcontroller 
+# Project microcontroller(Atmega 328p) with keypad and LCD 
 my team and I would like to share our project with you
 
  Briefly:
